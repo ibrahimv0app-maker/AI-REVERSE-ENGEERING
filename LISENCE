@@ -20,11 +20,37 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
----
+================================================================================
+ADDITIONAL TERMS — EDUCATIONAL USE & NO AFFILIATION
+================================================================================
 
-EDUCATIONAL NOTICE: This project reverse-engineers the public, anonymous chat
-flow of deepai.org for learning purposes. It does not include IP spoofing,
-fingerprint forgery, or anti-bot circumvention. Users are responsible for
-complying with DeepAI's Terms of Service (https://deepai.org/terms) and all
-applicable laws. Do not use this software to evade rate limits, scrape at
-scale, or resell access.
+1. NO AFFILIATION. This project is an independent, unofficial, educational work.
+   It is NOT affiliated with, endorsed by, sponsored by, or connected to DeepAI,
+   its owners, or any of its partners. "DeepAI" and any related names or logos
+   are the property of their respective owners and are used here only for
+   identification and educational reference (nominative fair use).
+
+2. EDUCATIONAL PURPOSE ONLY. The Software is provided solely to demonstrate and
+   teach how web APIs and client-server communication work. It reproduces only
+   the publicly observable behavior of a website as seen in a standard web
+   browser. It does NOT include, and the authors do NOT endorse, any mechanism
+   for IP spoofing, fingerprint forgery, CAPTCHA solving, proxy rotation, or
+   circumvention of rate limits or anti-abuse controls.
+
+3. USER RESPONSIBILITY. By downloading, using, copying, or modifying the
+   Software, YOU (the user) accept sole and full responsibility for your use of
+   it, including compliance with all applicable laws, regulations, and the Terms
+   of Service of any third-party service you interact with (including, without
+   limitation, DeepAI's Terms of Service at https://deepai.org/terms). The
+   authors and contributors are not responsible for, and disclaim all liability
+   arising from, your use or misuse of the Software.
+
+4. NO ENDORSEMENT OF MISUSE. The authors expressly prohibit and condemn use of
+   the Software to: violate any third party's Terms of Service; access services
+   without authorization; evade payment, quotas, or rate limits; scrape data at
+   scale; resell or commercially exploit access to third-party services; or
+   engage in any unlawful, fraudulent, or abusive activity.
+
+5. SEE ALSO. This license is supplemented by the DISCLAIMER.md file distributed
+   with this Software. In the event of any inconsistency regarding scope of use
+   and liability, the more restrictive provision controls.
